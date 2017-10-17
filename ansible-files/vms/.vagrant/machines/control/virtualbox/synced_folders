@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/repo":{"guestpath":"/home/vagrant/repo","hostpath":"/home/devops/training/ansible/ansible-project/control_repo","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/devops/training/ansible/ansible-project/vms","disabled":false,"__vagrantfile":true}}}
